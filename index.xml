@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The AI Bible Study Blog</title>
-    <link>https://aibiblestudy.github.io/</link>
+    <link>https://alanoakes.github.io/aibiblestudy/</link>
     <description>Recent content on The AI Bible Study Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Sep 2021 09:53:11 -0500</lastBuildDate>
     
-	<atom:link href="https://aibiblestudy.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alanoakes.github.io/aibiblestudy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://aibiblestudy.github.io/posts/welcome/</link>
+      <link>https://alanoakes.github.io/aibiblestudy/posts/welcome/</link>
       <pubDate>Fri, 03 Sep 2021 09:53:11 -0500</pubDate>
       
-      <guid>https://aibiblestudy.github.io/posts/welcome/</guid>
+      <guid>https://alanoakes.github.io/aibiblestudy/posts/welcome/</guid>
       <description>Welcome to the AI Bible Study Blog!</description>
     </item>
     
